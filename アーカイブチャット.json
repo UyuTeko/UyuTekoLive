@@ -1,0 +1,6377 @@
+[
+  {
+    "time": 20407,
+    "name": "千姫👑",
+    "message": "あけおめー",
+    "isMaster": false,
+    "startTime": 21200,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 23961,
+    "name": "竜真🦈",
+    "message": "あけおめ〜",
+    "isMaster": false,
+    "startTime": 24235,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 29043,
+    "name": "千姫👑",
+    "message": "ことよろー",
+    "isMaster": false,
+    "startTime": 29287,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 34217,
+    "name": "しょね",
+    "message": "あ",
+    "isMaster": false,
+    "startTime": 34309,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 40424,
+    "name": "竜真🦈",
+    "message": "今年もよろしくです！",
+    "isMaster": false,
+    "startTime": 41380,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 62657,
+    "name": "千姫👑",
+    "message": "よろしく〜",
+    "isMaster": false,
+    "startTime": 63549,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 62841,
+    "name": "しまゑ＜🐦️＞",
+    "message": "お願いします！",
+    "isMaster": false,
+    "startTime": 63549,
+    "lane": 1,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 83928,
+    "name": "ちゅんた",
+    "message": "お願いします（自分は全然投稿してないけど）",
+    "isMaster": false,
+    "startTime": 84800,
+    "lane": 0,
+    "width": 359.9400329589844,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 94321,
+    "name": "しまゑ＜🐦️＞",
+    "message": "おｋ！",
+    "isMaster": false,
+    "startTime": 94875,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 98217,
+    "name": "竜真🦈",
+    "message": "わかりました！！",
+    "isMaster": false,
+    "startTime": 98899,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 103591,
+    "name": "千姫👑",
+    "message": "おｋ",
+    "isMaster": false,
+    "startTime": 103954,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 121966,
+    "name": "千姫👑",
+    "message": "くぅさ",
+    "isMaster": false,
+    "startTime": 122135,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 122129,
+    "name": "ちゅんた",
+    "message": "おｋ！！",
+    "isMaster": false,
+    "startTime": 122135,
+    "lane": 1,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 142981,
+    "name": "竜真🦈",
+    "message": "待ってます！",
+    "isMaster": false,
+    "startTime": 143314,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 143814,
+    "name": "千姫👑",
+    "message": "これじゃない",
+    "isMaster": false,
+    "startTime": 144319,
+    "lane": 1,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 147892,
+    "name": "千姫👑",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 148369,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 163667,
+    "name": "うゆてこちん公式",
+    "message": "年賀状重いｗ",
+    "isMaster": true,
+    "startTime": 164502,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 169253,
+    "name": "めたもんズ",
+    "message": "もう始まってた…",
+    "isMaster": false,
+    "startTime": 169569,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 172839,
+    "name": "竜真🦈",
+    "message": "おお！！",
+    "isMaster": false,
+    "startTime": 173589,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 182919,
+    "name": "しまゑ＜🐦️＞",
+    "message": "かわいい！",
+    "isMaster": false,
+    "startTime": 183680,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 194523,
+    "name": "千姫👑",
+    "message": "おー",
+    "isMaster": false,
+    "startTime": 194773,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 200073,
+    "name": "竜真🦈",
+    "message": "勇者リアルすぎｗｗｗ",
+    "isMaster": false,
+    "startTime": 200846,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 209754,
+    "name": "めたもんズ",
+    "message": "ゆうしゃかっこいい",
+    "isMaster": false,
+    "startTime": 209918,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 215433,
+    "name": "竜真🦈",
+    "message": "あ、馬🐎",
+    "isMaster": false,
+    "startTime": 215974,
+    "lane": 0,
+    "width": 74.95401000976562,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 216954,
+    "name": "千姫👑",
+    "message": "メタモン教の人",
+    "isMaster": false,
+    "startTime": 216979,
+    "lane": 1,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 222424,
+    "name": "千姫👑",
+    "message": "すっげー",
+    "isMaster": false,
+    "startTime": 223064,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 224539,
+    "name": "めたもんズ",
+    "message": "はい",
+    "isMaster": false,
+    "startTime": 225092,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 237065,
+    "name": "しまゑ＜🐦️＞",
+    "message": "いぇーい！",
+    "isMaster": false,
+    "startTime": 237194,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 237201,
+    "name": "めたもんズ",
+    "message": "おおお",
+    "isMaster": false,
+    "startTime": 238199,
+    "lane": 1,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 243280,
+    "name": "千姫👑",
+    "message": "来年うちも作るわ〜",
+    "isMaster": false,
+    "startTime": 244289,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 281788,
+    "name": "ちゅんた",
+    "message": "おお〜〜ぉぉ",
+    "isMaster": false,
+    "startTime": 282768,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 301416,
+    "name": "もち吉",
+    "message": "すごいですね",
+    "isMaster": false,
+    "startTime": 302045,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 356420,
+    "name": "竜真🦈",
+    "message": "僕は〜今考え中！",
+    "isMaster": false,
+    "startTime": 357820,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 359132,
+    "name": "めたもんズ",
+    "message": "すくすくめたもんズやろう！！",
+    "isMaster": false,
+    "startTime": 359861,
+    "lane": 0,
+    "width": 239.95999145507812,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 361627,
+    "name": "しょね",
+    "message": "過去最短ライブ？",
+    "isMaster": false,
+    "startTime": 361896,
+    "lane": 1,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 363487,
+    "name": "ちゅんた",
+    "message": "VSゴーレム！！",
+    "isMaster": false,
+    "startTime": 363947,
+    "lane": 0,
+    "width": 123.84950256347656,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 366100,
+    "name": "もち吉",
+    "message": "テーマンのステージ遊んで",
+    "isMaster": false,
+    "startTime": 367015,
+    "lane": 0,
+    "width": 205.67999267578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 366448,
+    "name": "しまゑ＜🐦️＞",
+    "message": "サンタを守れ！クリスマスpvpとか？低クオ",
+    "isMaster": false,
+    "startTime": 367015,
+    "lane": 1,
+    "width": 340.228271484375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651331_ゔぁーい"
+    }
+  },
+  {
+    "time": 369797,
+    "name": "竜真🦈",
+    "message": "メタモン！！",
+    "isMaster": false,
+    "startTime": 370050,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 375648,
+    "name": "千姫👑",
+    "message": "バトロワver2.5END5追加☆",
+    "isMaster": false,
+    "startTime": 376105,
+    "lane": 0,
+    "width": 218.58563232421875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 396051,
+    "name": "ちゅんた",
+    "message": "きちゃぁ！！",
+    "isMaster": false,
+    "startTime": 398161,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 401954,
+    "name": "千姫👑",
+    "message": "いぇい",
+    "isMaster": false,
+    "startTime": 402271,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 407296,
+    "name": "めたもんズ",
+    "message": "神！！",
+    "isMaster": false,
+    "startTime": 407333,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 409491,
+    "name": "ちゅんた",
+    "message": "いぇい",
+    "isMaster": false,
+    "startTime": 410366,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 411860,
+    "name": "しまゑ＜🐦️＞",
+    "message": "wwww",
+    "isMaster": false,
+    "startTime": 412399,
+    "lane": 0,
+    "width": 59.167236328125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 424664,
+    "name": "千姫👑",
+    "message": "おー",
+    "isMaster": false,
+    "startTime": 425529,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 427139,
+    "name": "竜真🦈",
+    "message": "や、めたもんってステージない〜💦",
+    "isMaster": false,
+    "startTime": 427552,
+    "lane": 0,
+    "width": 280.11981201171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 427210,
+    "name": "羅衣",
+    "message": "あｙほ",
+    "isMaster": false,
+    "startTime": 427552,
+    "lane": 1,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 429694,
+    "name": "羅衣",
+    "message": "谷保",
+    "isMaster": false,
+    "startTime": 430584,
+    "lane": 1,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 433800,
+    "name": "羅衣",
+    "message": "遅れた-",
+    "isMaster": false,
+    "startTime": 434654,
+    "lane": 0,
+    "width": 57.76179504394531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 438575,
+    "name": "千姫👑",
+    "message": "やっほ０",
+    "isMaster": false,
+    "startTime": 438697,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 457335,
+    "name": "千姫👑",
+    "message": "タコすけ君もじゃｍ((",
+    "isMaster": false,
+    "startTime": 457964,
+    "lane": 0,
+    "width": 167.2178192138672,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 461396,
+    "name": "めたもんズ",
+    "message": "いいと思う",
+    "isMaster": false,
+    "startTime": 461996,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 466418,
+    "name": "めたもんズ",
+    "message": "ｯプ店員",
+    "isMaster": false,
+    "startTime": 467075,
+    "lane": 0,
+    "width": 59.989990234375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 471495,
+    "name": "竜真🦈",
+    "message": "そこでいいと思う！",
+    "isMaster": false,
+    "startTime": 472159,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 483052,
+    "name": "千姫👑",
+    "message": "そこでいいとおもう^^",
+    "isMaster": false,
+    "startTime": 483271,
+    "lane": 0,
+    "width": 174.4851837158203,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 486417,
+    "name": "ちゅんた",
+    "message": "どれを選ぶのか！！",
+    "isMaster": false,
+    "startTime": 487333,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 489077,
+    "name": "千姫👑",
+    "message": "んなわけあるかｗ",
+    "isMaster": false,
+    "startTime": 489356,
+    "lane": 1,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 490068,
+    "name": "しまゑ＜🐦️＞",
+    "message": "見えるね",
+    "isMaster": false,
+    "startTime": 490357,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 491174,
+    "name": "羅衣",
+    "message": "充電が-",
+    "isMaster": false,
+    "startTime": 491363,
+    "lane": 1,
+    "width": 57.76179504394531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651331_ゔぁーい"
+    }
+  },
+  {
+    "time": 500681,
+    "name": "羅衣",
+    "message": "終わったー",
+    "isMaster": false,
+    "startTime": 501520,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 501436,
+    "name": "めたもんズ",
+    "message": "性格で好感度の上がりやすさや動作がかわるからちゃんと選んでね",
+    "isMaster": false,
+    "startTime": 501520,
+    "lane": 1,
+    "width": 514.2001953125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 502773,
+    "name": "千姫👑",
+    "message": "充電しながらやったら良いいよ",
+    "isMaster": false,
+    "startTime": 503528,
+    "lane": 0,
+    "width": 239.95999145507812,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 508432,
+    "name": "ちゅんた",
+    "message": "見えるっちゃ見える（失礼）",
+    "isMaster": false,
+    "startTime": 508594,
+    "lane": 0,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 509352,
+    "name": "しまゑ＜🐦️＞",
+    "message": "タップしたら説明見れるよ！",
+    "isMaster": false,
+    "startTime": 509609,
+    "lane": 1,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 513099,
+    "name": "竜真🦈",
+    "message": "こいつｗｗｗ",
+    "isMaster": false,
+    "startTime": 513648,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 534433,
+    "name": "千姫👑",
+    "message": "おいｗ",
+    "isMaster": false,
+    "startTime": 534937,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 535225,
+    "name": "ちゅんた",
+    "message": "ｗｗ",
+    "isMaster": false,
+    "startTime": 535941,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 539459,
+    "name": "しまゑ＜🐦️＞",
+    "message": "それダメだろw",
+    "isMaster": false,
+    "startTime": 539990,
+    "lane": 0,
+    "width": 117.63180541992188,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 539707,
+    "name": "めたもんズ",
+    "message": "めたもんです",
+    "isMaster": false,
+    "startTime": 539990,
+    "lane": 1,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 545956,
+    "name": "めたもんズ",
+    "message": "いろち！？",
+    "isMaster": false,
+    "startTime": 546065,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 550922,
+    "name": "めたもんズ",
+    "message": "色違いだ‼‼‼‼‼",
+    "isMaster": false,
+    "startTime": 551138,
+    "lane": 0,
+    "width": 126.75022888183594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 551414,
+    "name": "しまゑ＜🐦️＞",
+    "message": "色違い！",
+    "isMaster": false,
+    "startTime": 552164,
+    "lane": 1,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 552187,
+    "name": "千姫👑",
+    "message": "おー",
+    "isMaster": false,
+    "startTime": 553167,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 558070,
+    "name": "竜真🦈",
+    "message": "色違いだ！",
+    "isMaster": false,
+    "startTime": 558221,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 560764,
+    "name": "めたもんズ",
+    "message": "バレた…",
+    "isMaster": false,
+    "startTime": 561257,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 561534,
+    "name": "しまゑ＜🐦️＞",
+    "message": "www",
+    "isMaster": false,
+    "startTime": 562288,
+    "lane": 1,
+    "width": 44.37542724609375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 562639,
+    "name": "ちゅんた",
+    "message": "色違いってあるんだ",
+    "isMaster": false,
+    "startTime": 563298,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 566486,
+    "name": "千姫👑",
+    "message": "覚えとこ",
+    "isMaster": false,
+    "startTime": 567374,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 572696,
+    "name": "竜真🦈",
+    "message": "まさにポケモン！",
+    "isMaster": false,
+    "startTime": 573491,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 593503,
+    "name": "千姫👑",
+    "message": "なしが好きって言ってたな…",
+    "isMaster": false,
+    "startTime": 593781,
+    "lane": 0,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 594523,
+    "name": "めたもんズ",
+    "message": "なし",
+    "isMaster": false,
+    "startTime": 594792,
+    "lane": 1,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 596009,
+    "name": "千姫👑",
+    "message": "なしだよ",
+    "isMaster": false,
+    "startTime": 596830,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 599985,
+    "name": "竜真🦈",
+    "message": "なし！",
+    "isMaster": false,
+    "startTime": 600876,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 600550,
+    "name": "ちゅんた",
+    "message": "なし！！",
+    "isMaster": false,
+    "startTime": 600876,
+    "lane": 1,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651331_ゔぁーい"
+    }
+  },
+  {
+    "time": 617956,
+    "name": "千姫👑",
+    "message": "くさ",
+    "isMaster": false,
+    "startTime": 618094,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 639577,
+    "name": "めたもんズ",
+    "message": "めたもんの近くになしをもってこよう！",
+    "isMaster": false,
+    "startTime": 640417,
+    "lane": 0,
+    "width": 308.5199890136719,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 659776,
+    "name": "めたもんズ",
+    "message": "たべてないｗｗ",
+    "isMaster": false,
+    "startTime": 660698,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 660929,
+    "name": "千姫👑",
+    "message": "ｗｗｗ",
+    "isMaster": false,
+    "startTime": 661708,
+    "lane": 1,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 667725,
+    "name": "めたもんズ",
+    "message": "うわああああ",
+    "isMaster": false,
+    "startTime": 667789,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 672004,
+    "name": "千姫👑",
+    "message": "ふえた",
+    "isMaster": false,
+    "startTime": 672850,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 679532,
+    "name": "千姫👑",
+    "message": "おなかいたい",
+    "isMaster": false,
+    "startTime": 679973,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 681455,
+    "name": "めたもんズ",
+    "message": "大量飼い",
+    "isMaster": false,
+    "startTime": 682010,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 683276,
+    "name": "ちゅんた",
+    "message": "二体目召喚",
+    "isMaster": false,
+    "startTime": 684020,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 684219,
+    "name": "竜真🦈",
+    "message": "２匹になった・・・",
+    "isMaster": false,
+    "startTime": 685040,
+    "lane": 1,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 694783,
+    "name": "めたもんズ",
+    "message": "バグではなく小ネタということで…",
+    "isMaster": false,
+    "startTime": 695154,
+    "lane": 0,
+    "width": 274.239990234375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 707215,
+    "name": "千姫👑",
+    "message": "もっとふやそー",
+    "isMaster": false,
+    "startTime": 707328,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 709408,
+    "name": "ちゅんた",
+    "message": "散歩に行こう！！",
+    "isMaster": false,
+    "startTime": 710385,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 714062,
+    "name": "竜真🦈",
+    "message": "色違いと普通のメタモンｗｗｗ",
+    "isMaster": false,
+    "startTime": 714424,
+    "lane": 0,
+    "width": 239.95999145507812,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 719912,
+    "name": "めたもんズ",
+    "message": "がんばろう！！」」",
+    "isMaster": false,
+    "startTime": 720544,
+    "lane": 0,
+    "width": 145.69000244140625,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 730916,
+    "name": "しまゑ＜🐦️＞",
+    "message": "散歩♪散歩♪",
+    "isMaster": false,
+    "startTime": 731704,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 744227,
+    "name": "竜真🦈",
+    "message": "散歩行きまくってる！",
+    "isMaster": false,
+    "startTime": 744855,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 749661,
+    "name": "ちゅんた",
+    "message": "どっちのメタモンが喜んでいるのか？",
+    "isMaster": false,
+    "startTime": 749924,
+    "lane": 0,
+    "width": 291.3799743652344,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 750709,
+    "name": "めたもんズ",
+    "message": "ないっす",
+    "isMaster": false,
+    "startTime": 750943,
+    "lane": 1,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 754571,
+    "name": "千姫👑",
+    "message": "ないってｗ",
+    "isMaster": false,
+    "startTime": 754965,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 758676,
+    "name": "千姫👑",
+    "message": "もっとふやそー",
+    "isMaster": false,
+    "startTime": 759030,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 760023,
+    "name": "千姫👑",
+    "message": "もっとふやそー",
+    "isMaster": false,
+    "startTime": 760035,
+    "lane": 1,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 760892,
+    "name": "竜真🦈",
+    "message": "ないんだ",
+    "isMaster": false,
+    "startTime": 761056,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 762025,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ないの！？",
+    "isMaster": false,
+    "startTime": 762067,
+    "lane": 1,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651331_ゔぁーい"
+    }
+  },
+  {
+    "time": 770934,
+    "name": "めたもんズ",
+    "message": "好感度最大にしよう！！",
+    "isMaster": false,
+    "startTime": 771223,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 778011,
+    "name": "ちゅんた",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 778308,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 781417,
+    "name": "千姫👑",
+    "message": "好感度最大だってｗ",
+    "isMaster": false,
+    "startTime": 782345,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 783204,
+    "name": "竜真🦈",
+    "message": "なしを無視してる",
+    "isMaster": false,
+    "startTime": 783362,
+    "lane": 1,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 802420,
+    "name": "めたもんズ",
+    "message": "めたもんの名前をスライムにしてみて",
+    "isMaster": false,
+    "startTime": 802549,
+    "lane": 0,
+    "width": 291.3800048828125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 805317,
+    "name": "千姫👑",
+    "message": "すらいむって入れかけてる",
+    "isMaster": false,
+    "startTime": 805582,
+    "lane": 1,
+    "width": 205.67999267578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 813961,
+    "name": "竜真🦈",
+    "message": "うん",
+    "isMaster": false,
+    "startTime": 814715,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 814466,
+    "name": "しまゑ＜🐦️＞",
+    "message": "それな",
+    "isMaster": false,
+    "startTime": 814715,
+    "lane": 1,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 822020,
+    "name": "千姫👑",
+    "message": "くぅさ",
+    "isMaster": false,
+    "startTime": 822849,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 828472,
+    "name": "めたもんズ",
+    "message": "まどうしょで決めてｗｗ",
+    "isMaster": false,
+    "startTime": 828927,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 833486,
+    "name": "竜真🦈",
+    "message": "なし食べろなし食べろ〜！！",
+    "isMaster": false,
+    "startTime": 834040,
+    "lane": 0,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 847110,
+    "name": "千姫👑",
+    "message": "え",
+    "isMaster": false,
+    "startTime": 847221,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 854365,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ゑ",
+    "isMaster": false,
+    "startTime": 855335,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 856960,
+    "name": "千姫👑",
+    "message": "小ネタ？",
+    "isMaster": false,
+    "startTime": 857359,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 859733,
+    "name": "竜真🦈",
+    "message": "ゲームオーバーした！？",
+    "isMaster": false,
+    "startTime": 860379,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 864123,
+    "name": "めたもんズ",
+    "message": "ｗｗｗｗ",
+    "isMaster": false,
+    "startTime": 864422,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 864668,
+    "name": "千姫👑",
+    "message": "おい",
+    "isMaster": false,
+    "startTime": 865439,
+    "lane": 1,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 869409,
+    "name": "竜真🦈",
+    "message": "クリア何回！",
+    "isMaster": false,
+    "startTime": 869503,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 869543,
+    "name": "ちゅんた",
+    "message": "エェ",
+    "isMaster": false,
+    "startTime": 870519,
+    "lane": 1,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 874319,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ちがうだろぉ！",
+    "isMaster": false,
+    "startTime": 874554,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 875374,
+    "name": "竜真🦈",
+    "message": "みすった",
+    "isMaster": false,
+    "startTime": 877332,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 885021,
+    "name": "千姫👑",
+    "message": "OK…？",
+    "isMaster": false,
+    "startTime": 885454,
+    "lane": 0,
+    "width": 59.23582458496094,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 893811,
+    "name": "竜真🦈",
+    "message": "次何？",
+    "isMaster": false,
+    "startTime": 894588,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 898356,
+    "name": "しまゑ＜🐦️＞",
+    "message": "wwww",
+    "isMaster": false,
+    "startTime": 898648,
+    "lane": 0,
+    "width": 59.167236328125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 907704,
+    "name": "めたもんズ",
+    "message": "おもしろそう",
+    "isMaster": false,
+    "startTime": 907771,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 913160,
+    "name": "しまゑ＜🐦️＞",
+    "message": "むずいよ。",
+    "isMaster": false,
+    "startTime": 913859,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 921433,
+    "name": "千姫👑",
+    "message": "え",
+    "isMaster": false,
+    "startTime": 921940,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 926268,
+    "name": "竜真🦈",
+    "message": "やばいやばい",
+    "isMaster": false,
+    "startTime": 926989,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 933668,
+    "name": "千姫👑",
+    "message": "しんだなｗ",
+    "isMaster": false,
+    "startTime": 934117,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 940198,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ゲキムズ",
+    "isMaster": false,
+    "startTime": 940210,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 942250,
+    "name": "ちゅんた",
+    "message": "攻撃連続ですると死ぬよ",
+    "isMaster": false,
+    "startTime": 943264,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 958920,
+    "name": "竜真🦈",
+    "message": "ゲキムズすぎでしょ",
+    "isMaster": false,
+    "startTime": 959481,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 971752,
+    "name": "しまゑ＜🐦️＞",
+    "message": "クリアしたことはあるけど...",
+    "isMaster": false,
+    "startTime": 972691,
+    "lane": 0,
+    "width": 222.3914794921875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 976755,
+    "name": "千姫👑",
+    "message": "こんな強いキャラクター作れるなんて…(尊敬)",
+    "isMaster": false,
+    "startTime": 977756,
+    "lane": 0,
+    "width": 355.7578430175781,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 979423,
+    "name": "竜真🦈",
+    "message": "まじか！",
+    "isMaster": false,
+    "startTime": 979776,
+    "lane": 1,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1000826,
+    "name": "千姫👑",
+    "message": "攻略法あるのか？",
+    "isMaster": false,
+    "startTime": 1001117,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1004982,
+    "name": "しまゑ＜🐦️＞",
+    "message": "相手から距離をとる",
+    "isMaster": false,
+    "startTime": 1005155,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1005683,
+    "name": "ちゅんた",
+    "message": "連続で攻撃しないほうがいい",
+    "isMaster": false,
+    "startTime": 1006176,
+    "lane": 1,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1007096,
+    "name": "めたもんズ",
+    "message": "むずすぎｗｗｗ",
+    "isMaster": false,
+    "startTime": 1007182,
+    "lane": 2,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 1010268,
+    "name": "千姫👑",
+    "message": "あ、一時停止ボタｎ((",
+    "isMaster": false,
+    "startTime": 1011260,
+    "lane": 0,
+    "width": 167.2178192138672,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1012580,
+    "name": "竜真🦈",
+    "message": "タコスケくんが！！",
+    "isMaster": false,
+    "startTime": 1013289,
+    "lane": 1,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1015542,
+    "name": "ちゅんた",
+    "message": "あとスキルに矢がある",
+    "isMaster": false,
+    "startTime": 1016324,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1029186,
+    "name": "めたもんズ",
+    "message": "爆発やばい",
+    "isMaster": false,
+    "startTime": 1029528,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1043623,
+    "name": "竜真🦈",
+    "message": "ゴーレムつよ",
+    "isMaster": false,
+    "startTime": 1043746,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1054123,
+    "name": "ちゅんた",
+    "message": "多分クリア率ある",
+    "isMaster": false,
+    "startTime": 1054897,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1055129,
+    "name": "千姫👑",
+    "message": "本気ちゃうんかったんかいｗ",
+    "isMaster": false,
+    "startTime": 1055918,
+    "lane": 1,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1065301,
+    "name": "竜真🦈",
+    "message": "本気来た",
+    "isMaster": false,
+    "startTime": 1066036,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1082536,
+    "name": "千姫👑",
+    "message": "まけたわｗ",
+    "isMaster": false,
+    "startTime": 1083260,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1094105,
+    "name": "千姫👑",
+    "message": "おいｗ",
+    "isMaster": false,
+    "startTime": 1094430,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1095615,
+    "name": "しまゑ＜🐦️＞",
+    "message": "一回遠距離攻撃したら、逃げるを繰り返す",
+    "isMaster": false,
+    "startTime": 1096451,
+    "lane": 0,
+    "width": 325.6600341796875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1102893,
+    "name": "しまゑ＜🐦️＞",
+    "message": "クリア率9%ww",
+    "isMaster": false,
+    "startTime": 1103651,
+    "lane": 0,
+    "width": 124.76202392578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1103692,
+    "name": "めたもんズ",
+    "message": "草",
+    "isMaster": false,
+    "startTime": 1104674,
+    "lane": 1,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1106036,
+    "name": "竜真🦈",
+    "message": "本気でも勝てないとは・・・",
+    "isMaster": false,
+    "startTime": 1106716,
+    "lane": 0,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1117187,
+    "name": "めたもんズ",
+    "message": "テマーンきた！！",
+    "isMaster": false,
+    "startTime": 1117898,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1129351,
+    "name": "しまゑ＜🐦️＞",
+    "message": "テーマンさん！",
+    "isMaster": false,
+    "startTime": 1130054,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1134074,
+    "name": "千姫👑",
+    "message": "おー",
+    "isMaster": false,
+    "startTime": 1134090,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1134103,
+    "name": "ちゅんた",
+    "message": "テーマンンカモーン",
+    "isMaster": false,
+    "startTime": 1135104,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1145497,
+    "name": "千姫👑",
+    "message": "さくーん",
+    "isMaster": false,
+    "startTime": 1146231,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1157313,
+    "name": "千姫👑",
+    "message": "おいｗ",
+    "isMaster": false,
+    "startTime": 1157378,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1167192,
+    "name": "千姫👑",
+    "message": "岩タコｖｓうゆてこw",
+    "isMaster": false,
+    "startTime": 1167503,
+    "lane": 0,
+    "width": 169.0518035888672,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1180146,
+    "name": "めたもんズ",
+    "message": "岩タコなっつ",
+    "isMaster": false,
+    "startTime": 1180682,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1192846,
+    "name": "竜真🦈",
+    "message": "目隠し",
+    "isMaster": false,
+    "startTime": 1193841,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1195501,
+    "name": "めたもんズ",
+    "message": "つよい…",
+    "isMaster": false,
+    "startTime": 1195865,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1208717,
+    "name": "しまゑ＜🐦️＞",
+    "message": "つ..つよい...",
+    "isMaster": false,
+    "startTime": 1209061,
+    "lane": 0,
+    "width": 96.4124755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1215979,
+    "name": "千姫👑",
+    "message": "w",
+    "isMaster": false,
+    "startTime": 1216157,
+    "lane": 0,
+    "width": 14.79180908203125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1217453,
+    "name": "竜真🦈",
+    "message": "強すぎ",
+    "isMaster": false,
+    "startTime": 1218201,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1228180,
+    "name": "めたもんズ",
+    "message": "Gルートか",
+    "isMaster": false,
+    "startTime": 1228342,
+    "lane": 0,
+    "width": 80.849365234375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1239608,
+    "name": "千姫👑",
+    "message": "w",
+    "isMaster": false,
+    "startTime": 1240517,
+    "lane": 0,
+    "width": 14.79180908203125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1239634,
+    "name": "ちゅんた",
+    "message": "タコ力は最強！！（多分）",
+    "isMaster": false,
+    "startTime": 1240517,
+    "lane": 1,
+    "width": 205.67999267578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1241228,
+    "name": "めたもんズ",
+    "message": "ｗｗ",
+    "isMaster": false,
+    "startTime": 1241534,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1242815,
+    "name": "竜真🦈",
+    "message": "タコスミがやばい",
+    "isMaster": false,
+    "startTime": 1243575,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 1253153,
+    "name": "竜真🦈",
+    "message": "やられた",
+    "isMaster": false,
+    "startTime": 1253746,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1254374,
+    "name": "千姫👑",
+    "message": "死んだ",
+    "isMaster": false,
+    "startTime": 1254764,
+    "lane": 1,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1257588,
+    "name": "めたもんズ",
+    "message": "やばいｗｗ",
+    "isMaster": false,
+    "startTime": 1257835,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1263093,
+    "name": "ちゅんた",
+    "message": "つ、強すぎない？",
+    "isMaster": false,
+    "startTime": 1263906,
+    "lane": 0,
+    "width": 136.4344024658203,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1264006,
+    "name": "めたもんズ",
+    "message": "見逃そう！！",
+    "isMaster": false,
+    "startTime": 1264925,
+    "lane": 1,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1269014,
+    "name": "しまゑ＜🐦️＞",
+    "message": "本気きたー！",
+    "isMaster": false,
+    "startTime": 1269994,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1272039,
+    "name": "千姫👑",
+    "message": "はじめは本気ちゃうんや",
+    "isMaster": false,
+    "startTime": 1273041,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1273642,
+    "name": "めたもんズ",
+    "message": "がばんれ",
+    "isMaster": false,
+    "startTime": 1274069,
+    "lane": 1,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1277214,
+    "name": "ちゅんた",
+    "message": "本気モードきちゃあ！！",
+    "isMaster": false,
+    "startTime": 1278136,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1293073,
+    "name": "竜真🦈",
+    "message": "うゆてこさんVSうゆてこ（偽物）てきな？",
+    "isMaster": false,
+    "startTime": 1293360,
+    "lane": 0,
+    "width": 329.5295104980469,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1303036,
+    "name": "ちゅんた",
+    "message": "無理ゲー多すぎｗｗ",
+    "isMaster": false,
+    "startTime": 1303547,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1309091,
+    "name": "千姫👑",
+    "message": "なんて言ってたのｗ",
+    "isMaster": false,
+    "startTime": 1309628,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1313773,
+    "name": "竜真🦈",
+    "message": "やばいやばい",
+    "isMaster": false,
+    "startTime": 1314742,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1329135,
+    "name": "千姫👑",
+    "message": "あ",
+    "isMaster": false,
+    "startTime": 1329947,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1329203,
+    "name": "しまゑ＜🐦️＞",
+    "message": "無理ゲー多くて草",
+    "isMaster": false,
+    "startTime": 1329947,
+    "lane": 1,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1333693,
+    "name": "ちゅんた",
+    "message": "多分「くたばれ」",
+    "isMaster": false,
+    "startTime": 1333987,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1336967,
+    "name": "竜真🦈",
+    "message": "むずすぎだろ",
+    "isMaster": false,
+    "startTime": 1337012,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1339281,
+    "name": "千姫👑",
+    "message": "おい",
+    "isMaster": false,
+    "startTime": 1344701,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1351497,
+    "name": "竜真🦈",
+    "message": "くたばれはちょっとやばくね",
+    "isMaster": false,
+    "startTime": 1351814,
+    "lane": 0,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1363288,
+    "name": "千姫👑",
+    "message": "おー！",
+    "isMaster": false,
+    "startTime": 1363937,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1368076,
+    "name": "ちゅんた",
+    "message": "これねー（おもろいよ）",
+    "isMaster": false,
+    "startTime": 1369003,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1380563,
+    "name": "千姫👑",
+    "message": "オススメです",
+    "isMaster": false,
+    "startTime": 1381131,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1382515,
+    "name": "しまゑ＜🐦️＞",
+    "message": "がんば",
+    "isMaster": false,
+    "startTime": 1383174,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1388618,
+    "name": "竜真🦈",
+    "message": "がんばれー！！",
+    "isMaster": false,
+    "startTime": 1389254,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1404781,
+    "name": "千姫👑",
+    "message": "30位行ったわ",
+    "isMaster": false,
+    "startTime": 1405486,
+    "lane": 0,
+    "width": 105.92518615722656,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1430665,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ベッキーさん",
+    "isMaster": false,
+    "startTime": 1430818,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1432902,
+    "name": "千姫👑",
+    "message": "ちなみに初見7w",
+    "isMaster": false,
+    "startTime": 1433857,
+    "lane": 0,
+    "width": 127.74440002441406,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1440148,
+    "name": "竜真🦈",
+    "message": "ベッキーサンタ",
+    "isMaster": false,
+    "startTime": 1440924,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1448329,
+    "name": "しまゑ＜🐦️＞",
+    "message": "あとからむずくなる",
+    "isMaster": false,
+    "startTime": 1449031,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1459878,
+    "name": "千姫👑",
+    "message": "unn",
+    "isMaster": false,
+    "startTime": 1460239,
+    "lane": 0,
+    "width": 32.89161682128906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1464804,
+    "name": "竜真🦈",
+    "message": "子供おおすぎ！",
+    "isMaster": false,
+    "startTime": 1465289,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1465747,
+    "name": "ちゅんた",
+    "message": "そうだよ！！",
+    "isMaster": false,
+    "startTime": 1466313,
+    "lane": 1,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1469237,
+    "name": "千姫👑",
+    "message": "あ、初見負けた",
+    "isMaster": false,
+    "startTime": 1469348,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1472914,
+    "name": "めたもんズ",
+    "message": "8点ｗｗｗｗｗｗｗｗｗ",
+    "isMaster": false,
+    "startTime": 1473402,
+    "lane": 0,
+    "width": 181.51258850097656,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1472949,
+    "name": "千姫👑",
+    "message": "うち7だったのに",
+    "isMaster": false,
+    "startTime": 1473402,
+    "lane": 1,
+    "width": 130.09259033203125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 1476413,
+    "name": "しまゑ＜🐦️＞",
+    "message": "作者は、4562",
+    "isMaster": false,
+    "startTime": 1476448,
+    "lane": 0,
+    "width": 109.0103759765625,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1479111,
+    "name": "千姫👑",
+    "message": "え",
+    "isMaster": false,
+    "startTime": 1479485,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1488099,
+    "name": "千姫👑",
+    "message": "正気ですｋ((",
+    "isMaster": false,
+    "startTime": 1488644,
+    "lane": 0,
+    "width": 98.65782165527344,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1490814,
+    "name": "竜真🦈",
+    "message": "４０００超え！？",
+    "isMaster": false,
+    "startTime": 1491711,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1493371,
+    "name": "ちゅんた",
+    "message": "ゑぇ゙",
+    "isMaster": false,
+    "startTime": 1493743,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1501997,
+    "name": "千姫👑",
+    "message": "どれくらい時間かかったんですか?",
+    "isMaster": false,
+    "startTime": 1502884,
+    "lane": 0,
+    "width": 265.909912109375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1511806,
+    "name": "しまゑ＜🐦️＞",
+    "message": "15分くらい？",
+    "isMaster": false,
+    "startTime": 1511975,
+    "lane": 0,
+    "width": 105.92518615722656,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1515853,
+    "name": "千姫👑",
+    "message": "え",
+    "isMaster": false,
+    "startTime": 1516036,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1518713,
+    "name": "しまゑ＜🐦️＞",
+    "message": "必勝法あるからね..",
+    "isMaster": false,
+    "startTime": 1519079,
+    "lane": 0,
+    "width": 148.260986328125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1523455,
+    "name": "千姫👑",
+    "message": "教えてください",
+    "isMaster": false,
+    "startTime": 1524154,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1529687,
+    "name": "竜真🦈",
+    "message": "しまゑさんすご！",
+    "isMaster": false,
+    "startTime": 1530241,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1536181,
+    "name": "ちゅんた",
+    "message": "そりゃあもう何時間くらいと打とうと思ったら15分だった",
+    "isMaster": false,
+    "startTime": 1536342,
+    "lane": 0,
+    "width": 448.72528076171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1543763,
+    "name": "しまゑ＜🐦️＞",
+    "message": "右と左から出てくる奴らを上にいかせたら終わる",
+    "isMaster": false,
+    "startTime": 1544432,
+    "lane": 0,
+    "width": 377.080078125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1549151,
+    "name": "千姫👑",
+    "message": "OK",
+    "isMaster": false,
+    "startTime": 1549521,
+    "lane": 0,
+    "width": 24.955825805664062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1562189,
+    "name": "もち吉",
+    "message": "おめでとう！",
+    "isMaster": false,
+    "startTime": 1562644,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1567473,
+    "name": "しまゑ＜🐦️＞",
+    "message": "おめ！",
+    "isMaster": false,
+    "startTime": 1570538,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1574362,
+    "name": "ちゅんた",
+    "message": "おめでと！！",
+    "isMaster": false,
+    "startTime": 1574605,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1591728,
+    "name": "ちゅんた",
+    "message": "スキップされた！",
+    "isMaster": false,
+    "startTime": 1591885,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1593518,
+    "name": "竜真🦈",
+    "message": "はい！",
+    "isMaster": false,
+    "startTime": 1593905,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1598340,
+    "name": "千姫👑",
+    "message": "っしゃあ!",
+    "isMaster": false,
+    "startTime": 1598964,
+    "lane": 0,
+    "width": 74.90179443359375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1605235,
+    "name": "千姫👑",
+    "message": "ver2.5です",
+    "isMaster": false,
+    "startTime": 1606094,
+    "lane": 0,
+    "width": 87.15615844726562,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1620499,
+    "name": "千姫👑",
+    "message": "END5追加☆っていう",
+    "isMaster": false,
+    "startTime": 1621274,
+    "lane": 0,
+    "width": 165.70947265625,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1629658,
+    "name": "しまゑ＜🐦️＞",
+    "message": "結構面白いやつ",
+    "isMaster": false,
+    "startTime": 1630389,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1634758,
+    "name": "しまゑ＜🐦️＞",
+    "message": "前サブ垢でやった",
+    "isMaster": false,
+    "startTime": 1635476,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1643361,
+    "name": "千姫👑",
+    "message": "ありがと★",
+    "isMaster": false,
+    "startTime": 1643592,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1647820,
+    "name": "ちゅんた",
+    "message": "これ結構やった記憶ある",
+    "isMaster": false,
+    "startTime": 1648670,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1649773,
+    "name": "竜真🦈",
+    "message": "バトロワ！て、すごすぎ！",
+    "isMaster": false,
+    "startTime": 1650708,
+    "lane": 1,
+    "width": 204.822998046875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1675313,
+    "name": "竜真🦈",
+    "message": "サンタさんを守れにまだなってる💦",
+    "isMaster": false,
+    "startTime": 1676027,
+    "lane": 0,
+    "width": 280.6340026855469,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1675537,
+    "name": "千姫👑",
+    "message": "やってみればわかるよ…()",
+    "isMaster": false,
+    "startTime": 1676027,
+    "lane": 1,
+    "width": 201.49781799316406,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1706606,
+    "name": "ちゅんた",
+    "message": "頑張れ！！",
+    "isMaster": false,
+    "startTime": 1707486,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1712881,
+    "name": "しまゑ＜🐦️＞",
+    "message": "頑張れぇ！",
+    "isMaster": false,
+    "startTime": 1713560,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1715820,
+    "name": "竜真🦈",
+    "message": "がんばれ〜！！",
+    "isMaster": false,
+    "startTime": 1716604,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1718595,
+    "name": "千姫👑",
+    "message": "やられｒ((",
+    "isMaster": false,
+    "startTime": 1718636,
+    "lane": 0,
+    "width": 81.517822265625,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1734133,
+    "name": "めたもんズ",
+    "message": "すごいｗｗｗ",
+    "isMaster": false,
+    "startTime": 1734838,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1764586,
+    "name": "しまゑ＜🐦️＞",
+    "message": "イケイケ！",
+    "isMaster": false,
+    "startTime": 1765248,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1771160,
+    "name": "千姫👑",
+    "message": "後半になると厄介だよ",
+    "isMaster": false,
+    "startTime": 1771356,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1775300,
+    "name": "竜真🦈",
+    "message": "GO！！",
+    "isMaster": false,
+    "startTime": 1775392,
+    "lane": 0,
+    "width": 59.76716613769531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1793312,
+    "name": "千姫👑",
+    "message": "END2だっけ?",
+    "isMaster": false,
+    "startTime": 1793682,
+    "lane": 0,
+    "width": 105.95942687988281,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1807943,
+    "name": "めたもんズ",
+    "message": "はらこわしてた",
+    "isMaster": false,
+    "startTime": 1808836,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1816650,
+    "name": "ちゅんた",
+    "message": "仲間やられてない？",
+    "isMaster": false,
+    "startTime": 1816942,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1844719,
+    "name": "千姫👑",
+    "message": "あとちょっと！",
+    "isMaster": false,
+    "startTime": 1845312,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1856395,
+    "name": "ちゅんた",
+    "message": "後ちょっと頑張れ！！",
+    "isMaster": false,
+    "startTime": 1856476,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1873966,
+    "name": "千姫👑",
+    "message": "たぶん",
+    "isMaster": false,
+    "startTime": 1874781,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1889478,
+    "name": "千姫👑",
+    "message": "あ、充電切れそう",
+    "isMaster": false,
+    "startTime": 1889964,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1892158,
+    "name": "めたもんズ",
+    "message": "あとでアーカイブ見ようｗｗ",
+    "isMaster": false,
+    "startTime": 1893024,
+    "lane": 0,
+    "width": 221.79159545898438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1894567,
+    "name": "千姫👑",
+    "message": "END5まであるからね〜",
+    "isMaster": false,
+    "startTime": 1895058,
+    "lane": 1,
+    "width": 182.84947204589844,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1903142,
+    "name": "千姫👑",
+    "message": "うんｗ",
+    "isMaster": false,
+    "startTime": 1903155,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1911730,
+    "name": "竜真🦈",
+    "message": "おかしくなってる💦",
+    "isMaster": false,
+    "startTime": 1912356,
+    "lane": 0,
+    "width": 160.6540069580078,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1938611,
+    "name": "千姫👑",
+    "message": "コメントに攻略書いたっけ",
+    "isMaster": false,
+    "startTime": 1939139,
+    "lane": 0,
+    "width": 205.67999267578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1939612,
+    "name": "竜真🦈",
+    "message": "すげー！！",
+    "isMaster": false,
+    "startTime": 1940159,
+    "lane": 1,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1945857,
+    "name": "ちゅんた",
+    "message": "エンド別れてんのすご..",
+    "isMaster": false,
+    "startTime": 1946306,
+    "lane": 0,
+    "width": 182.54098510742188,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 1959497,
+    "name": "千姫👑",
+    "message": "やってみてね〜",
+    "isMaster": false,
+    "startTime": 1960495,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1978397,
+    "name": "もち吉",
+    "message": "したいジャンプジャンプゲーム",
+    "isMaster": false,
+    "startTime": 1978766,
+    "lane": 0,
+    "width": 239.95999145507812,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 1979416,
+    "name": "竜真🦈",
+    "message": "コレって自分のやつでもいいのかな？",
+    "isMaster": false,
+    "startTime": 1979789,
+    "lane": 1,
+    "width": 291.3799743652344,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 1986055,
+    "name": "千姫👑",
+    "message": "いいと思う",
+    "isMaster": false,
+    "startTime": 1986905,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 2009951,
+    "name": "千姫👑",
+    "message": "頑張っていいの探してきたしｗ",
+    "isMaster": false,
+    "startTime": 2010566,
+    "lane": 0,
+    "width": 239.95999145507812,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2022534,
+    "name": "ちゅんた",
+    "message": "しまえさんのhalloween~devil'shaouse1~",
+    "isMaster": false,
+    "startTime": 2022750,
+    "lane": 0,
+    "width": 337.60186767578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2038754,
+    "name": "千姫👑",
+    "message": "バトロワの別のエンド",
+    "isMaster": false,
+    "startTime": 2038999,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2047084,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ｗ\n",
+    "isMaster": false,
+    "startTime": 2048074,
+    "lane": 0,
+    "width": 21.030776977539062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2051205,
+    "name": "千姫👑",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 2052135,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2054313,
+    "name": "ちゅんた",
+    "message": "タブレットの充電ないぜぇぇ！！",
+    "isMaster": false,
+    "startTime": 2055170,
+    "lane": 0,
+    "width": 257.0999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2063362,
+    "name": "千姫👑",
+    "message": "20%切りました",
+    "isMaster": false,
+    "startTime": 2064261,
+    "lane": 0,
+    "width": 122.43099975585938,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2079115,
+    "name": "ちゅんた",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 2079468,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2084671,
+    "name": "千姫👑",
+    "message": "halloween",
+    "isMaster": false,
+    "startTime": 2085519,
+    "lane": 0,
+    "width": 87.84100341796875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2096562,
+    "name": "千姫👑",
+    "message": "みんなハロウィンってしてるのか?",
+    "isMaster": false,
+    "startTime": 2096624,
+    "lane": 0,
+    "width": 265.909912109375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2107515,
+    "name": "ちゅんた",
+    "message": "回復してるぅぅ！！（タブレットの充電）",
+    "isMaster": false,
+    "startTime": 2107782,
+    "lane": 0,
+    "width": 325.6600036621094,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2117702,
+    "name": "千姫👑",
+    "message": "よかったね",
+    "isMaster": false,
+    "startTime": 2117903,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2121768,
+    "name": "ちゅんた",
+    "message": "きちゃぁ！！",
+    "isMaster": false,
+    "startTime": 2121970,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2129248,
+    "name": "ちゅんた",
+    "message": "ホラゲだよ！！",
+    "isMaster": false,
+    "startTime": 2130066,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2144671,
+    "name": "ちゅんた",
+    "message": "続きでてないけど",
+    "isMaster": false,
+    "startTime": 2145234,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2147331,
+    "name": "千姫👑",
+    "message": "他の人がやってるのを見るのなら平気ｗ",
+    "isMaster": false,
+    "startTime": 2148271,
+    "lane": 0,
+    "width": 308.52001953125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2175845,
+    "name": "千姫👑",
+    "message": "え",
+    "isMaster": false,
+    "startTime": 2176547,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2178665,
+    "name": "しまゑ＜🐦️＞",
+    "message": "しらねっ",
+    "isMaster": false,
+    "startTime": 2179585,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2182229,
+    "name": "ちゅんた",
+    "message": "充電コードを抜く",
+    "isMaster": false,
+    "startTime": 2182665,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 2185817,
+    "name": "千姫👑",
+    "message": "ちょー文字でセリフが見えん",
+    "isMaster": false,
+    "startTime": 2186703,
+    "lane": 0,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2196568,
+    "name": "千姫👑",
+    "message": "あ、対処アザス",
+    "isMaster": false,
+    "startTime": 2196866,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2210065,
+    "name": "千姫👑",
+    "message": "返事がないただのしかばねのようだ",
+    "isMaster": false,
+    "startTime": 2210077,
+    "lane": 0,
+    "width": 274.239990234375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2221504,
+    "name": "ちゅんた",
+    "message": "そしてまた刺す（どうでもよすぎる）",
+    "isMaster": false,
+    "startTime": 2222232,
+    "lane": 0,
+    "width": 291.3799743652344,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2229188,
+    "name": "竜真🦈",
+    "message": "僕ちょっと血嫌いだけど、ハクプレなら大丈夫だわｗｗｗ",
+    "isMaster": false,
+    "startTime": 2229354,
+    "lane": 0,
+    "width": 444.78314208984375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2236298,
+    "name": "千姫👑",
+    "message": "こわい",
+    "isMaster": false,
+    "startTime": 2236451,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2265663,
+    "name": "千姫👑",
+    "message": "尊敬いたします--土下座",
+    "isMaster": false,
+    "startTime": 2265789,
+    "lane": 0,
+    "width": 184.08358764648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2289104,
+    "name": "千姫👑",
+    "message": "なるほど",
+    "isMaster": false,
+    "startTime": 2289118,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2290323,
+    "name": "しまゑ＜🐦️＞",
+    "message": "さっき取ったでしょ...",
+    "isMaster": false,
+    "startTime": 2291125,
+    "lane": 0,
+    "width": 170.9714813232422,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2303412,
+    "name": "千姫👑",
+    "message": "食器だよｗ",
+    "isMaster": false,
+    "startTime": 2304328,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2311514,
+    "name": "竜真🦈",
+    "message": "たしか取ってた気が・・・",
+    "isMaster": false,
+    "startTime": 2312443,
+    "lane": 0,
+    "width": 205.67999267578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2330608,
+    "name": "千姫👑",
+    "message": "ここでは",
+    "isMaster": false,
+    "startTime": 2330736,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2354201,
+    "name": "しまゑ＜🐦️＞",
+    "message": "食器の欠片",
+    "isMaster": false,
+    "startTime": 2355096,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2364352,
+    "name": "千姫👑",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 2365250,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2386935,
+    "name": "竜真🦈",
+    "message": "何故か鬼滅ににてると思ってる",
+    "isMaster": false,
+    "startTime": 2387562,
+    "lane": 0,
+    "width": 239.95999145507812,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2396836,
+    "name": "千姫👑",
+    "message": "あ",
+    "isMaster": false,
+    "startTime": 2397746,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2397972,
+    "name": "しまゑ＜🐦️＞",
+    "message": "なぜだ？",
+    "isMaster": false,
+    "startTime": 2398752,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2404610,
+    "name": "竜真🦈",
+    "message": "あ、",
+    "isMaster": false,
+    "startTime": 2404843,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2410024,
+    "name": "千姫👑",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 2411010,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2415816,
+    "name": "ちゅんた",
+    "message": "あぁぁぁ",
+    "isMaster": false,
+    "startTime": 2416090,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2417272,
+    "name": "竜真🦈",
+    "message": "本気きちゃった",
+    "isMaster": false,
+    "startTime": 2418131,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2423353,
+    "name": "千姫👑",
+    "message": "食器は？",
+    "isMaster": false,
+    "startTime": 2424200,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2430224,
+    "name": "竜真🦈",
+    "message": "モードがひらがな・・・",
+    "isMaster": false,
+    "startTime": 2430346,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2446543,
+    "name": "ちゅんた",
+    "message": "打ち込めばいいだけ",
+    "isMaster": false,
+    "startTime": 2446619,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2447351,
+    "name": "千姫👑",
+    "message": "えこわい",
+    "isMaster": false,
+    "startTime": 2447635,
+    "lane": 1,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2454389,
+    "name": "しまゑ＜🐦️＞",
+    "message": "バグた",
+    "isMaster": false,
+    "startTime": 2454761,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2458479,
+    "name": "ちゅんた",
+    "message": "続きないけどｗｗ",
+    "isMaster": false,
+    "startTime": 2458812,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2470985,
+    "name": "千姫👑",
+    "message": "続きが楽しみ",
+    "isMaster": false,
+    "startTime": 2471000,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2473134,
+    "name": "ちゅんた",
+    "message": "バグてるね",
+    "isMaster": false,
+    "startTime": 2474054,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2481399,
+    "name": "しまゑ＜🐦️＞",
+    "message": "あざした！",
+    "isMaster": false,
+    "startTime": 2482181,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2498433,
+    "name": "千姫👑",
+    "message": "バトロワの別のエンド",
+    "isMaster": false,
+    "startTime": 2499393,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2515856,
+    "name": "千姫👑",
+    "message": "OK",
+    "isMaster": false,
+    "startTime": 2516606,
+    "lane": 0,
+    "width": 24.955825805664062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2519961,
+    "name": "ちゅんた",
+    "message": "ちょっと飯食べる",
+    "isMaster": false,
+    "startTime": 2520667,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2524228,
+    "name": "竜真🦈",
+    "message": "僕の、スイカゲームやってほしい‼️アップデート版の！！",
+    "isMaster": false,
+    "startTime": 2524735,
+    "lane": 0,
+    "width": 452.03399658203125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2540738,
+    "name": "千姫👑",
+    "message": "元ネタの人のスコア見たいしねｗ",
+    "isMaster": false,
+    "startTime": 2540942,
+    "lane": 0,
+    "width": 257.0999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2567199,
+    "name": "千姫👑",
+    "message": "便利",
+    "isMaster": false,
+    "startTime": 2567298,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2623067,
+    "name": "千姫👑",
+    "message": "温泉だろｗ",
+    "isMaster": false,
+    "startTime": 2624021,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2638032,
+    "name": "竜真🦈",
+    "message": "それハロウィン番ｗｗｗ",
+    "isMaster": false,
+    "startTime": 2638166,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2649396,
+    "name": "千姫👑",
+    "message": "あ、ハロウィンかｗ",
+    "isMaster": false,
+    "startTime": 2650360,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2660140,
+    "name": "千姫👑",
+    "message": "文字で下が見えない",
+    "isMaster": false,
+    "startTime": 2660500,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2670370,
+    "name": "竜真🦈",
+    "message": "お知らせ見たけど、ハロウィン選んでます・・・",
+    "isMaster": false,
+    "startTime": 2670635,
+    "lane": 0,
+    "width": 376.2230224609375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2675916,
+    "name": "千姫👑",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 2676723,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2698525,
+    "name": "千姫👑",
+    "message": "すげー",
+    "isMaster": false,
+    "startTime": 2698934,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2721857,
+    "name": "竜真🦈",
+    "message": "もう、ももいった！",
+    "isMaster": false,
+    "startTime": 2722184,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2747111,
+    "name": "千姫👑",
+    "message": "あ",
+    "isMaster": false,
+    "startTime": 2747471,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2759372,
+    "name": "竜真🦈",
+    "message": "ちなみにコレオ音なってるんだよね！",
+    "isMaster": false,
+    "startTime": 2759640,
+    "lane": 0,
+    "width": 291.3799743652344,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2764307,
+    "name": "千姫👑",
+    "message": "最後手抜きしたなｗ",
+    "isMaster": false,
+    "startTime": 2764720,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2810108,
+    "name": "千姫👑",
+    "message": "遊ぼう！！",
+    "isMaster": false,
+    "startTime": 2810199,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2833163,
+    "name": "千姫👑",
+    "message": "バトロワの別のエンド…",
+    "isMaster": false,
+    "startTime": 2833492,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2840679,
+    "name": "竜真🦈",
+    "message": "ザコ神さんのは？",
+    "isMaster": false,
+    "startTime": 2841582,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2852223,
+    "name": "千姫👑",
+    "message": "↑バトロワの別のエンドは諦めろ",
+    "isMaster": false,
+    "startTime": 2852744,
+    "lane": 0,
+    "width": 257.0999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2868790,
+    "name": "千姫👑",
+    "message": "今度バトロワの別のエンドやってね〜",
+    "isMaster": false,
+    "startTime": 2868938,
+    "lane": 0,
+    "width": 291.3799743652344,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2874015,
+    "name": "竜真🦈",
+    "message": "協力者のやつ・・・未完成だと思うけど💦",
+    "isMaster": false,
+    "startTime": 2874987,
+    "lane": 0,
+    "width": 332.05401611328125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2902027,
+    "name": "千姫👑",
+    "message": "っしゃあ(2度目)",
+    "isMaster": false,
+    "startTime": 2902355,
+    "lane": 0,
+    "width": 125.91041564941406,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2915496,
+    "name": "竜真🦈",
+    "message": "２度目良かったね！",
+    "isMaster": false,
+    "startTime": 2915534,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2922148,
+    "name": "千姫👑",
+    "message": "別のエンドなｗ",
+    "isMaster": false,
+    "startTime": 2922655,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2955360,
+    "name": "千姫👑",
+    "message": "コメントに書いてます",
+    "isMaster": false,
+    "startTime": 2956151,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2962709,
+    "name": "千姫👑",
+    "message": "緑色のしたいです",
+    "isMaster": false,
+    "startTime": 2963258,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 2977125,
+    "name": "千姫👑",
+    "message": "あ、死んでも別のエンドになるよｗ",
+    "isMaster": false,
+    "startTime": 2977419,
+    "lane": 0,
+    "width": 274.239990234375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 2984082,
+    "name": "竜真🦈",
+    "message": "なんか一瞬タコスケくんの色変わった",
+    "isMaster": false,
+    "startTime": 2984528,
+    "lane": 0,
+    "width": 291.3800048828125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3041480,
+    "name": "千姫👑",
+    "message": "しらんｗ",
+    "isMaster": false,
+    "startTime": 3042369,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3069903,
+    "name": "千姫👑",
+    "message": "テレポートランダムだぞっ",
+    "isMaster": false,
+    "startTime": 3070754,
+    "lane": 0,
+    "width": 205.67999267578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3077238,
+    "name": "千姫👑",
+    "message": "あ、いた",
+    "isMaster": false,
+    "startTime": 3077829,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3089592,
+    "name": "千姫👑",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 3089988,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3097007,
+    "name": "竜真🦈✈️",
+    "message": "タコスケくんがｗｗｗ",
+    "isMaster": false,
+    "startTime": 3097102,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3127717,
+    "name": "千姫👑",
+    "message": "赤いドラゴンが一番うざい。",
+    "isMaster": false,
+    "startTime": 3128562,
+    "lane": 0,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3139590,
+    "name": "竜真🦈✈️",
+    "message": "HP３はつらい",
+    "isMaster": false,
+    "startTime": 3139700,
+    "lane": 0,
+    "width": 110.10734558105469,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3145975,
+    "name": "千姫👑",
+    "message": "いやそれがきついｗ",
+    "isMaster": false,
+    "startTime": 3146805,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3150766,
+    "name": "千姫👑",
+    "message": "スキルとれぇ",
+    "isMaster": false,
+    "startTime": 3150865,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3176654,
+    "name": "千姫👑",
+    "message": "ｗ",
+    "isMaster": false,
+    "startTime": 3177267,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3191128,
+    "name": "千姫👑",
+    "message": "あ、みんなアイテムとりにちゃんと行ってくれてるｗ",
+    "isMaster": false,
+    "startTime": 3191506,
+    "lane": 0,
+    "width": 411.360107421875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3232878,
+    "name": "千姫👑",
+    "message": "見てる側としては気楽だなぁ",
+    "isMaster": false,
+    "startTime": 3233091,
+    "lane": 0,
+    "width": 222.8199920654297,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3237201,
+    "name": "しまゑ＜🐦️＞",
+    "message": "w",
+    "isMaster": false,
+    "startTime": 3238142,
+    "lane": 0,
+    "width": 14.79180908203125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3241200,
+    "name": "竜真🦈✈️",
+    "message": "赤ドラゴンやばい",
+    "isMaster": false,
+    "startTime": 3242204,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3253617,
+    "name": "千姫👑",
+    "message": "強敵作れた☆",
+    "isMaster": false,
+    "startTime": 3254405,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3272165,
+    "name": "千姫👑",
+    "message": "無茶振り展開っすｗ",
+    "isMaster": false,
+    "startTime": 3272645,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3279667,
+    "name": "千姫👑",
+    "message": "そっすｗ",
+    "isMaster": false,
+    "startTime": 3279737,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3287370,
+    "name": "竜真🦈✈️",
+    "message": "家族にしては多すぎ",
+    "isMaster": false,
+    "startTime": 3287810,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3293069,
+    "name": "ちゅんた",
+    "message": "ご飯から一旦帰ってきた",
+    "isMaster": false,
+    "startTime": 3293906,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3310766,
+    "name": "千姫👑",
+    "message": "ここがエンド分岐",
+    "isMaster": false,
+    "startTime": 3311171,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3317161,
+    "name": "竜真🦈✈️",
+    "message": "やってもうた",
+    "isMaster": false,
+    "startTime": 3317256,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3321415,
+    "name": "千姫👑",
+    "message": "ギャグエンド",
+    "isMaster": false,
+    "startTime": 3322350,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3324182,
+    "name": "しまゑ＜🐦️＞",
+    "message": "うぅ",
+    "isMaster": false,
+    "startTime": 3324369,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 3329243,
+    "name": "竜真🦈✈️",
+    "message": "くりあしたし",
+    "isMaster": false,
+    "startTime": 3329461,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3329638,
+    "name": "ちゅんた",
+    "message": "エンド何まであるの",
+    "isMaster": false,
+    "startTime": 3330477,
+    "lane": 1,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3338731,
+    "name": "千姫👑",
+    "message": "ありがとうございました!!",
+    "isMaster": false,
+    "startTime": 3339589,
+    "lane": 0,
+    "width": 201.2235870361328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3348785,
+    "name": "千姫👑",
+    "message": "え",
+    "isMaster": false,
+    "startTime": 3349758,
+    "lane": 0,
+    "width": 17.139999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3353224,
+    "name": "竜真🦈✈️",
+    "message": "ホントや",
+    "isMaster": false,
+    "startTime": 3353826,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3356731,
+    "name": "千姫👑",
+    "message": "気づかんかった",
+    "isMaster": false,
+    "startTime": 3356876,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3362964,
+    "name": "竜真🦈✈️",
+    "message": "僕も",
+    "isMaster": false,
+    "startTime": 3363959,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3384294,
+    "name": "竜真🦈✈️",
+    "message": "たい焼き今食べてる",
+    "isMaster": false,
+    "startTime": 3385225,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3396771,
+    "name": "もち吉",
+    "message": "目がはみ出てる",
+    "isMaster": false,
+    "startTime": 3397365,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3398534,
+    "name": "千姫👑",
+    "message": "END5が一番むずい",
+    "isMaster": false,
+    "startTime": 3399370,
+    "lane": 0,
+    "width": 148.56947326660156,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3423475,
+    "name": "千姫👑",
+    "message": "でっか",
+    "isMaster": false,
+    "startTime": 3423617,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3424443,
+    "name": "竜真🦈✈️",
+    "message": "たい焼き今食べてるたいやき食べながら聞きます！",
+    "isMaster": false,
+    "startTime": 3424632,
+    "lane": 0,
+    "width": 394.2200622558594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3437649,
+    "name": "ちゅんた",
+    "message": "何を話すのか！！",
+    "isMaster": false,
+    "startTime": 3437769,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3464860,
+    "name": "千姫👑",
+    "message": "仲間だ",
+    "isMaster": false,
+    "startTime": 3464993,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3482125,
+    "name": "千姫👑",
+    "message": "1月中旬に終わります",
+    "isMaster": false,
+    "startTime": 3482170,
+    "lane": 0,
+    "width": 164.37258911132812,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3483711,
+    "name": "しまゑ＜🐦️＞",
+    "message": "(泣)",
+    "isMaster": false,
+    "startTime": 3484186,
+    "lane": 1,
+    "width": 30.097824096679688,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3486162,
+    "name": "千姫👑",
+    "message": "がんばれー",
+    "isMaster": false,
+    "startTime": 3486220,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 3489848,
+    "name": "もち吉",
+    "message": "受験優先！！！",
+    "isMaster": false,
+    "startTime": 3490262,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3493030,
+    "name": "竜真🦈✈️",
+    "message": "がんば！",
+    "isMaster": false,
+    "startTime": 3493290,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3495928,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ふぁいと！",
+    "isMaster": false,
+    "startTime": 3496310,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 3498117,
+    "name": "千姫👑",
+    "message": "受験大事",
+    "isMaster": false,
+    "startTime": 3498315,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3519455,
+    "name": "もち吉",
+    "message": "setsubunだ",
+    "isMaster": false,
+    "startTime": 3519579,
+    "lane": 0,
+    "width": 94.55305480957031,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3526009,
+    "name": "竜真🦈✈️",
+    "message": "どっちも頑張れ！！",
+    "isMaster": false,
+    "startTime": 3526648,
+    "lane": 0,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3531614,
+    "name": "千姫👑",
+    "message": "節分か!!",
+    "isMaster": false,
+    "startTime": 3531689,
+    "lane": 0,
+    "width": 64.10359191894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3548709,
+    "name": "竜真🦈✈️",
+    "message": "節分！",
+    "isMaster": false,
+    "startTime": 3548870,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3551145,
+    "name": "しまゑ＜🐦️＞",
+    "message": "受験がんば！（まだ小学生だから受験わかんないけど...）",
+    "isMaster": false,
+    "startTime": 3551908,
+    "lane": 0,
+    "width": 445.21160888671875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3557061,
+    "name": "千姫👑",
+    "message": "こちらこそ!!",
+    "isMaster": false,
+    "startTime": 3557979,
+    "lane": 0,
+    "width": 98.38359069824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3569255,
+    "name": "ろっちー",
+    "message": "うん",
+    "isMaster": false,
+    "startTime": 3570071,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3574847,
+    "name": "竜真🦈✈️",
+    "message": "僕も小学校で受験の意味わからないけど、頑張ってください！",
+    "isMaster": false,
+    "startTime": 3575127,
+    "lane": 0,
+    "width": 479.0630798339844,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3576803,
+    "name": "千姫👑",
+    "message": "うちも中受頑張ります!!",
+    "isMaster": false,
+    "startTime": 3577134,
+    "lane": 1,
+    "width": 184.08358764648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3594385,
+    "name": "ろっちー",
+    "message": "今何やってんの？",
+    "isMaster": false,
+    "startTime": 3595279,
+    "lane": 0,
+    "width": 137.1199951171875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3600589,
+    "name": "竜真🦈✈️",
+    "message": "！ろっち",
+    "isMaster": false,
+    "startTime": 3601320,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3607336,
+    "name": "千姫👑",
+    "message": "これで休憩終わりか〜",
+    "isMaster": false,
+    "startTime": 3607392,
+    "lane": 0,
+    "width": 171.39999389648438,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3612304,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ありがとうございました！",
+    "isMaster": false,
+    "startTime": 3612455,
+    "lane": 0,
+    "width": 205.67999267578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3619007,
+    "name": "ろっちー",
+    "message": "ばーい",
+    "isMaster": false,
+    "startTime": 3619542,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3622877,
+    "name": "しまゑ＜🐦️＞",
+    "message": "(;_;)",
+    "isMaster": false,
+    "startTime": 3623580,
+    "lane": 0,
+    "width": 33.81718444824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3624588,
+    "name": "ちゅんた",
+    "message": "まじか、、、、",
+    "isMaster": false,
+    "startTime": 3625594,
+    "lane": 0,
+    "width": 93.92721557617188,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 3625363,
+    "name": "ろっちー",
+    "message": "？？？",
+    "isMaster": false,
+    "startTime": 3625594,
+    "lane": 1,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 3626417,
+    "name": "竜真🦈✈️",
+    "message": "コレ明日もできるのかな？",
+    "isMaster": false,
+    "startTime": 3626605,
+    "lane": 1,
+    "width": 205.67999267578125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3645322,
+    "name": "千姫👑",
+    "message": "ヴァイヴァイ!!",
+    "isMaster": false,
+    "startTime": 3645783,
+    "lane": 0,
+    "width": 115.52359008789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3646075,
+    "name": "ちゅんた",
+    "message": "楽しみにしてます！",
+    "isMaster": false,
+    "startTime": 3646786,
+    "lane": 1,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3648694,
+    "name": "ろっちー",
+    "message": "ばい",
+    "isMaster": false,
+    "startTime": 3648801,
+    "lane": 0,
+    "width": 34.279998779296875,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 3651134,
+    "name": "ちゅんた",
+    "message": "ゔぁぁぁい",
+    "isMaster": false,
+    "startTime": 3651820,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651134_ゔぁぁぁい"
+    }
+  },
+  {
+    "time": 3651331,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ゔぁーい",
+    "isMaster": false,
+    "startTime": 3651820,
+    "lane": 1,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3651331_ゔぁーい"
+    }
+  },
+  {
+    "time": 3652142,
+    "name": "竜真🦈✈️",
+    "message": "ばいばい！",
+    "isMaster": false,
+    "startTime": 3652835,
+    "lane": 2,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3652142_ばいばい！"
+    }
+  },
+  {
+    "time": 3653060,
+    "name": "もち吉",
+    "message": "ゔぁいゔぁい！",
+    "isMaster": false,
+    "startTime": 3653838,
+    "lane": 0,
+    "width": 119.97999572753906,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3654836,
+    "name": "もち吉",
+    "message": "！！！",
+    "isMaster": false,
+    "startTime": 3654841,
+    "lane": 1,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3657933,
+    "name": "ろっちー",
+    "message": "ああああ",
+    "isMaster": false,
+    "startTime": 3658868,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 3661064,
+    "name": "ちゅんた",
+    "message": "ゔぁいゔぁい！！！！！",
+    "isMaster": false,
+    "startTime": 3661887,
+    "lane": 0,
+    "width": 188.5399932861328,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3661564,
+    "name": "ろっちー",
+    "message": "ーーーーーーーーー",
+    "isMaster": false,
+    "startTime": 3661887,
+    "lane": 1,
+    "width": 154.25999450683594,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  },
+  {
+    "time": 3667361,
+    "name": "しまゑ＜🐦️＞",
+    "message": "🕶️ばーい",
+    "isMaster": false,
+    "startTime": 3667922,
+    "lane": 0,
+    "width": 74.95401000976562,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3667361_🕶️ばーい"
+    }
+  },
+  {
+    "time": 3684646,
+    "name": "しまゑ＜🐦️＞",
+    "message": "ううううう",
+    "isMaster": false,
+    "startTime": 3685101,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": "3684646_ううううう"
+    }
+  },
+  {
+    "time": 3688288,
+    "name": "千姫👑",
+    "message": "ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい",
+    "isMaster": false,
+    "startTime": 3689127,
+    "lane": 0,
+    "width": 308.52001953125,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": "3688288_ゔぁいゔぁいゔぁいゔぁいゔぁいゔぁい"
+    }
+  }
+]
